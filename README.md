@@ -5,7 +5,7 @@
 <div align="right">
   
 [![GitHub followers](https://img.shields.io/github/followers/e-gleba?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/e-gleba)
-[![Сетка](https://img.shields.io/badge/Сетка-Profile-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOSAxOWMtNSAwLTYtNC05LTQiLz48cGF0aCBkPSJNNCAxNWMtNCAwLTQtNC00LTQiLz48cGF0aCBkPSJNMTMgMTljLTEtMi0yLTMtNC0zIi8+PC9zdmc+&color=4A90E2&labelColor=2F3437)](https://set.ki/P37MfcQ)
+[![Сетка](https://img.shields.io/badge/Сетка-Profile-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOSAxOWMtNSAwLTYtNC05LTQiLz48cGF0aCBkPSJNNCAxNWMtNCAwLTQtNC00LTQiLz48cGF0aCBkPSJNMTMgMTljLTEtMi0yLTMtNC0zIi8+PC9zdmc+&color=4A90E2&labelColor=2F3437)](https://set.ki/3v7kkwm)
 [![Views](https://komarev.com/ghpvc/?username=e-gleba&style=for-the-badge&color=blueviolet)](https://github.com/geugenm)
 
 ---
