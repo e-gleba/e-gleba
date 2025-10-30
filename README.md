@@ -25,8 +25,6 @@ systems_engineer | game_developer | security_researcher
 
 <div align="center">
 
-## activity
-
 ![Metrics](https://github.com/e-gleba/e-gleba/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
