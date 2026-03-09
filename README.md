@@ -1,22 +1,9 @@
-<div align="center">
-
-# e-gleba
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=header" />
 
 <div align="center">
 
-**"minimal code, maximum impact"** • **performance_over_bloat** • **unix_philosophy**
-
-```
-$ whoami
-systems_engineer | game_developer | security_researcher
-```
+![3D Contributions](https://github.com/e-gleba/e-gleba/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
 </div>
 
-</div>
-
-<div align="center">
-
-![Metrics](https://github.com/e-gleba/e-gleba/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:764ba2,100:667eea&section=footer" />
